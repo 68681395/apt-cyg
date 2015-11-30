@@ -77,5 +77,6 @@ Example use of apt-cyg:
     apt-cyg install nano
     
 Modify the respository source
+
     # 修改软件源
     apt-cyg --mirror http://mirrors.163.com/cygwin
