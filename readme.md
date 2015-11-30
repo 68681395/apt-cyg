@@ -80,3 +80,8 @@ Modify the respository source
 
     # 修改软件源
     apt-cyg --mirror http://mirrors.163.com/cygwin
+    # 更改权限（modify permission if required）
+    chmod +x /bin/apt-cyg
+    or
+    chmod +x /usr/local/bin/apt-cyg
+    
