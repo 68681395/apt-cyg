@@ -70,7 +70,7 @@ Quick start
 apt-cyg is a simple script. To install:
 
     lynx -source rawgit.com/transcode-open/apt-cyg/master/apt-cyg > apt-cyg
-    install apt-cyg /bin **here must be change to 'install apt-cyg /usr/local/bin'** , else apt-cyg will not found
+    install apt-cyg /bin **here must be change to 'install apt-cyg /usr/local/bin'** , else apt-cyg will be not found
 
 Example use of apt-cyg:
 
